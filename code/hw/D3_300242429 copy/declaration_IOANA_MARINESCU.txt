@@ -1,0 +1,1 @@
+Tous le code est ecrit par moi-meme car j'ai deja d'experience avec Python.
